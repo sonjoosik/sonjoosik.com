@@ -17,6 +17,8 @@ show_excerpts: false
 minima:
   date_format: "%b %-d, %Y"
 
+header_pages:
+  
 plugins:
  - jekyll-feed
  - jekyll-seo-tag

@@ -18,6 +18,7 @@ minima:
   date_format: "%b %-d, %Y"
 
 header_pages:
+ - a
   
 plugins:
  - jekyll-feed

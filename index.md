@@ -6,10 +6,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: About
 ---
-### About
 
 Hello, this is Joosik Son's Personal Page. 
 
-* [linkedin](https://www.linkedin.com/in/sonjoosik/)
-* [sonjoosik@gmail.com](mailto://sonjoosik@gmail.com) or [joosik.son@navercorp.com](mailto://joosik.son@navercorp.com)
+* Find me on [linkedin](https://www.linkedin.com/in/sonjoosik/)
+* Contact me by email
+  * [sonjoosik@gmail.com](mailto://sonjoosik@gmail.com) 
+  * [joosik.son@navercorp.com](mailto://joosik.son@navercorp.com)

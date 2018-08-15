@@ -1,6 +1,7 @@
 remote_theme : jekyll/minima
 url : "https://sonjoosik.github.io"
 baseurl : ""
+theme: minima
 
 title: Son Joo Sik
 author: sonjoosik
@@ -11,16 +12,10 @@ description: >
 github_username:  sonjoosik
 linkedin_username: sonjoosik
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: false
 
 minima:
   date_format: "%b %-d, %Y"
-
-header_pages:
- - about.md
-
-# Build settings
-theme: minima
 
 plugins:
  - jekyll-feed

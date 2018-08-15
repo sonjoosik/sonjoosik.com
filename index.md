@@ -7,4 +7,9 @@
 #
 layout: home
 ---
-Hello, World!
+### About
+
+Hello, this is Joosik Son's Personal Page. 
+
+* [linkedin](https://www.linkedin.com/in/sonjoosik/)
+* [sonjoosik@gmail.com](mailto://sonjoosik@gmail.com) or [joosik.son@navercorp.com](mailto://joosik.son@navercorp.com)

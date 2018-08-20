@@ -9,7 +9,7 @@ layout: home
 title: About
 ---
 
-Hello, this is Joosik Son's Personal Page. 
+Hello, this is Joosik Son's personal page. 
 
 * Find me on [linkedin](https://www.linkedin.com/in/sonjoosik/)
 * Contact me by email

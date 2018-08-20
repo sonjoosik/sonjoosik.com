@@ -1,7 +1,7 @@
 remote_theme : jekyll/minima
 url : "https://sonjoosik.com"
 baseurl : ""
-theme: jekyll-theme-cayman
+theme: minima
 
 title: Hello, world!
 author: sonjoosik

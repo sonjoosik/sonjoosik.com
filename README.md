@@ -1,1 +1,1 @@
-# sonjoosik.github.io
+# sonjoosik.com

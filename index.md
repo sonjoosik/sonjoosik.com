@@ -20,6 +20,6 @@ I am a site reliability engineer and researcher at NAVER SEARCH. My interests in
 * B.S. in Computer Science and Engineering, Kyungpook National University, 2006 - 2013
 
 ### Contact
-* Facebook : https://www.facebook.com/sonjoosik
-* Linkedin : https://www.linkedin.com/in/sonjoosik/
+* Facebook : [https://www.facebook.com/sonjoosik/](https://www.facebook.com/sonjoosik/)
+* Linkedin : [https://www.linkedin.com/in/sonjoosik/](https://www.linkedin.com/in/sonjoosik/)
 * Email : [sonjoosik@gmail.com](mailto://sonjoosik@gmail.com)

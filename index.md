@@ -11,15 +11,15 @@ title: Joosik Son
 
 I am a site reliability engineer and researcher at NAVER SEARCH. My interests include time series data mining, anomaly detection, outlier analysis, and incident management. Before coming to NAVER, I was a software engineer at TmaxData and developed DBMS components, such as query compiler and executor.  I built a background in recommender systems during my graduate studies.
 
-### Work Experience
+## Work Experience
 * Site Reliability Engineer, NAVER, 2017 - current
 * Software Engineer, TmaxData, 2016 - 2017
 
-### Education
+## Education
 * M.S. in Computer Science, KAIST, 2014 - 2016
 * B.S. in Computer Science and Engineering, Kyungpook National University, 2006 - 2013
 
-### Contact
+## Contact
 * Facebook : [https://www.facebook.com/sonjoosik/](https://www.facebook.com/sonjoosik/)
 * Linkedin : [https://www.linkedin.com/in/sonjoosik/](https://www.linkedin.com/in/sonjoosik/)
 * Email : [sonjoosik@gmail.com](mailto://sonjoosik@gmail.com)

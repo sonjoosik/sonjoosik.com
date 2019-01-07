@@ -10,16 +10,18 @@ title: Son, Joo Sik (손주식)
 ---
 
 ## Work Experience
-* Software Engineer, NAVER Corp, 08/2017 - current
+* NAVER Corp (08/2017 - current)
+  * Software Engineer
   * In charge of developing products for the reliability and incident management of large-scale distributed search system.
-* Software Engineer, TmaxData, 02/2016 - 08/2017
+* TmaxData (02/2016 - 08/2017)
+  * Software Engineer
   * Developed query compiler and executor modules of an RDBMS product.
   * Participated in a project developing a monitoring system for the RDBMS.
 
 ## Education
-* M.S. in Computer Science, KAIST, 2014 - 2016
+* M.S. in Computer Science, KAIST (2014 - 2016)
   * Thesis: Personalized task recommendation considering variant factors in the Internet of Things environments
-* B.S. in Computer Science and Engineering, Kyungpook National University, 2006 - 2013
+* B.S. in Computer Science and Engineering, Kyungpook National University (2006 - 2013)
 
 ## Papers
 * **Joo-Sik Son**, Han-Gyu Ko, and In-Young Ko. An Empirical Study of the Use of Multi-Dimensional Contexts for Collaborative-Filtering-Based Service Recommendations in IoT Environments, In Proceedings of the 15th International Conference on Web Engineering (ICWE 2015), June 23 – 26, 2015, Rotterdam, the Netherlands. (Poster paper)
@@ -30,10 +32,10 @@ title: Son, Joo Sik (손주식)
 
 ## Articles and Talks
 * SRE: Search Reliability Engineering (Talk, Korean)
-  * DEVIEW 2018, 10/2018
+  * DEVIEW 2018 (10/2018)
   * Info: [https://deview.kr/2018/schedule/253?lang=en](https://deview.kr/2018/schedule/253?lang=en)
   * Slide: [https://www.slideshare.net/deview/216sresearchreliabilityengineering](https://www.slideshare.net/deview/216sresearchreliabilityengineering) 
 * NAVER Search System which is reliable even in an earthquake (Articles, Korean)
-  * NAVER Search & Tech Blog, 11/2017
+  * NAVER Search & Tech Blog (11/2017)
   * Vol. 1: [http://blog.naver.com/naver_search/221150527232](http://blog.naver.com/naver_search/221150527232)
   * Vol. 2: [http://blog.naver.com/naver_search/221151934172](http://blog.naver.com/naver_search/221151934172)

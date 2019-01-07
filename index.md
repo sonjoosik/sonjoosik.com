@@ -33,8 +33,3 @@ title: Son, Joo Sik (손주식)
   * NAVER Search & Tech Blog, 11/2017
   * Vol. 1: http://blog.naver.com/naver_search/221150527232
   * Vol. 2: http://blog.naver.com/naver_search/221151934172
-
-## Contact
-* [Facebook](https://www.facebook.com/sonjoosik/)
-* [Linkedin](https://www.linkedin.com/in/sonjoosik/)
-* Email : sonjoosik _at_ gmail _dot_ com

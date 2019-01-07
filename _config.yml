@@ -1,6 +1,6 @@
-remote_theme : jekyll/minima
-url : "https://sonjoosik.com"
-baseurl : ""
+remote_theme: jekyll/minima
+url: "https://sonjoosik.com"
+baseurl: ""
 theme: minima
 
 title: Hello, world!

@@ -24,12 +24,16 @@ title: Son, Joo Sik (손주식)
 ## Papers
 * **Joo-Sik Son**, Han-Gyu Ko, and In-Young Ko. An Empirical Study of the Use of Multi-Dimensional Contexts for Collaborative-Filtering-Based Service Recommendations in IoT Environments, In Proceedings of the 15th International Conference on Web Engineering (ICWE 2015), June 23 – 26, 2015, Rotterdam, the Netherlands. (Poster paper)
 
+* Han-Gyu Ko, **Joo-Sik Son**, and In-Young Ko, Multi-Aspect Collaborative Filtering based on Linked Data for Personalized Recommendation, In Proceedings of the 24rd International World Wide Web Conference (WWW 2015), May 18-22, 2015, Florence, Italy.
+
+* **Joo-Sik Son**, Han-Gyu Ko, and In-Young Ko. Analysis on Collaborative Filtering Methods for Multi- dimensional Context-aware Service Recommendation, In Proceedings of 2015 Korea Conference on Software Engineering (KCSE 2015), Jan 28-30, 2015, Pyeongchang, Korea.
+
 ## Articles and Talks
 * SRE: Search Reliability Engineering (Talk, Korean)
   * DEVIEW 2018, 10/2018
-  * Info: https://deview.kr/2018/schedule/253?lang=en 
-  * Slide: https://www.slideshare.net/deview/216sresearchreliabilityengineering 
+  * Info: [https://deview.kr/2018/schedule/253?lang=en](https://deview.kr/2018/schedule/253?lang=en)
+  * Slide: [https://www.slideshare.net/deview/216sresearchreliabilityengineering](https://www.slideshare.net/deview/216sresearchreliabilityengineering) 
 * NAVER Search System which is reliable even in an earthquake (Articles, Korean)
   * NAVER Search & Tech Blog, 11/2017
-  * Vol. 1: http://blog.naver.com/naver_search/221150527232
-  * Vol. 2: http://blog.naver.com/naver_search/221151934172
+  * Vol. 1: [http://blog.naver.com/naver_search/221150527232](http://blog.naver.com/naver_search/221150527232)
+  * Vol. 2: [http://blog.naver.com/naver_search/221151934172](http://blog.naver.com/naver_search/221151934172)

@@ -1,1 +1,1 @@
-# sonjoosik.com
+http://sonjoosik.com

@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Son, Joo Sik (손주식)
+title: 
 ---
 
 ## Work Experience

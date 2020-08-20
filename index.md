@@ -33,7 +33,7 @@ title: :)
 ## Articles and Talks
 * SRE system at NAVER Search (Article, Korean)
   * NAVER D2 Blog (02/2020)
-  * [[link]](https://d2.naver.com/helloworld/2047663)
+  * Article: [[link]](https://d2.naver.com/helloworld/2047663)
 * SRE: Search Reliability Engineering (Talk, Korean)
   * DEVIEW 2018 (10/2018)
   * Video: [[link]](https://deview.kr/2018/schedule/253?lang=en)

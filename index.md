@@ -31,6 +31,9 @@ title: :)
 * **Joo-Sik Son**, Han-Gyu Ko, and In-Young Ko. Analysis on Collaborative Filtering Methods for Multi- dimensional Context-aware Service Recommendation, In Proceedings of 2015 Korea Conference on Software Engineering (KCSE 2015), Jan 28-30, 2015, Pyeongchang, Korea.
 
 ## Articles and Talks
+* SRE system at NAVER Search (Article, Korean)
+  * NAVER D2 Blog (02/2020)
+  * [[link]](https://d2.naver.com/helloworld/2047663)
 * SRE: Search Reliability Engineering (Talk, Korean)
   * DEVIEW 2018 (10/2018)
   * Video: [[link]](https://deview.kr/2018/schedule/253?lang=en)

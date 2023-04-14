@@ -18,6 +18,23 @@ title: :)
   * Developed query compiler and executor modules of an RDBMS product.
   * Participated in a project developing a monitoring system for the RDBMS.
 
+## Articles and Talks
+* VictoriaMetrics: Time series in the Multiverse of Madness (Talk, Korean)
+  * DEVIEW 2023 (02/2023)  
+  * Video: [[link - youtube]](https://youtu.be/OUyXPgVcdw4), [[link - naver tv]](https://tv.naver.com/v/33918943)
+  * Slide: [[link]](https://deview.kr/2023/sessions/558)
+* SRE system at NAVER Search (Article, Korean)
+  * NAVER D2 Blog (02/2020)
+  * Article: [[link]](https://d2.naver.com/helloworld/2047663)
+* SRE: Search Reliability Engineering (Talk, Korean)
+  * DEVIEW 2018 (10/2018)
+  * Video: [[link]](https://deview.kr/2018/schedule/253?lang=en)
+  * Slide: [[link]](https://www.slideshare.net/deview/216sresearchreliabilityengineering) 
+* NAVER Search System which is reliable even in an earthquake (Articles, Korean)
+  * NAVER Search & Tech Blog (11/2017)
+  * Vol. 1: [[link]](http://blog.naver.com/naver_search/221150527232)
+  * Vol. 2: [[link]](http://blog.naver.com/naver_search/221151934172)
+
 ## Education
 * M.S. in Computer Science, KAIST (03/2014 - 02/2016)
   * Thesis: Personalized task recommendation considering variant factors in the Internet of Things environments
@@ -30,15 +47,3 @@ title: :)
 
 * **Joo-Sik Son**, Han-Gyu Ko, and In-Young Ko. Analysis on Collaborative Filtering Methods for Multi- dimensional Context-aware Service Recommendation, In Proceedings of 2015 Korea Conference on Software Engineering (KCSE 2015), Jan 28-30, 2015, Pyeongchang, Korea.
 
-## Articles and Talks
-* SRE system at NAVER Search (Article, Korean)
-  * NAVER D2 Blog (02/2020)
-  * Article: [[link]](https://d2.naver.com/helloworld/2047663)
-* SRE: Search Reliability Engineering (Talk, Korean)
-  * DEVIEW 2018 (10/2018)
-  * Video: [[link]](https://deview.kr/2018/schedule/253?lang=en)
-  * Slide: [[link]](https://www.slideshare.net/deview/216sresearchreliabilityengineering) 
-* NAVER Search System which is reliable even in an earthquake (Articles, Korean)
-  * NAVER Search & Tech Blog (11/2017)
-  * Vol. 1: [[link]](http://blog.naver.com/naver_search/221150527232)
-  * Vol. 2: [[link]](http://blog.naver.com/naver_search/221151934172)

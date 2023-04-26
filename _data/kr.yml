@@ -1,0 +1,130 @@
+basic:
+  name: 손주식                         # name
+  title: Software Engineer           # job title
+  avatar:
+    show: false                      # show or hide avatar
+    path: /assets/images/profile.png # avatar file path
+
+contact:
+  # meta
+  email: sonjoosik_at_gmail.com      # email address
+  website: brunch.co.kr/@sonjoosik   # site URL without schema, like example.com, will automatically prepand "https://"
+  github: sonjoosik                  # username          | https://github.com/username
+  linkedin: sonjoosik                # username          | https://linkedin.com/in/username
+
+
+profile:
+  show: true
+  order: 1
+  title: Profile
+  description: |
+    2017년부터 네이버 검색에서 근무하면서 SRE(Site Repliability Engineering) 플랫폼과 대용량 시계열 데이터베이스의 구축 및 운영을 담당하고 있습니다. 2명에서 시작된 작은 개발팀을 맡아 9명이 될 때까지 약 2년간 리딩한 경험이 있습니다. 이후 9개월의 육아 휴직 기간을 가졌고, 복귀한 뒤에는 팀의 리더가 아닌 개별 기여자(Individual Contributor)로서 또 열심히 역할을 다하고 있습니다. 네이버에서 근무하기 전에는 티맥스에서 데이터베이스를 개발하였습니다. 그리고 대학원에서 추천시스템을 연구한 경험도 있습니다. 
+    
+    특정 기술이나 도메인보다는 문제를 해결하는 일 자체에 관심이 많습니다. 소프트웨어와 데이터를 다루는 기술을 통해 일상생활에서 발생하는 수많은 어려운 문제들을 조금이나마 쉽게 해결할 수 있다고 믿습니다. 
+
+experience:
+  show: true
+  order: 2
+  title: Experiences
+  description: |
+
+  items:
+    - company: NAVER Corp.
+      link: 'https://www.navercorp.com/en'
+      date: 2017.08 - Present
+      role: Software Engineer
+      location: 경기도 성남시
+      description: |
+        + 2022년부터는 글로벌 스케일의 대용량 TSDB(Time-series Database) 플랫폼을 구축 및 운영하고 있습니다. 오픈소스 TSDB인 [VictoriaMetrics](https://victoriametrics.com/)를 기반으로 수천만 개 ~ 수억 개의 시계열을 실시간으로 수집, 저장, 처리하고 있습니다. 자세한 내용은 아래 발표에서 소개하였습니다.
+          - [[DEVIEW 2023] VictoriaMetrics: 시계열 데이터 대혼돈의 멀티버스](https://deview.kr/2023/sessions/558)
+        + 2020년부터 약 2년간 네이버 검색 SRE 플랫폼 개발팀의 리더로 근무하였습니다. 2명에서 시작된 팀은 9명까지 늘어났고, 수많은 레거시 시스템과 데이터를 개편하는 프로젝트를 진행하였습니다. 자세한 이야기는 아래 발표와 인터뷰에서 공유한 적이 있습니다. 
+          - [[2021 NAVER Search Colloquium] Search Engine and SRE Platform for Global Web Search System](https://tv.naver.com/v/20312678)
+          - [[디지털데일리] [네이버 어벤저스] 검색 장애율 0%대 ‘철통방어선’은 바로 이곳](https://n.news.naver.com/article/138/0002102957)
+        + 2017년부터 약 3년간 네이버 검색의 신뢰성을 책임지는 SRE 플랫폼을 개발하였습니다. 복잡하고 거대한 분산 시스템을 한눈에 볼 수 있도록 시각화해 주는 대시보드도 만들고 기존에는 없던 새로운 규칙을 적용한 경보 시스템도 구축했습니다. 이 기간 동안 네이버 검색의 장애 발생률은 매년 절반씩 감소하여 0%대까지 떨어졌습니다. 아래 링크에서 좀 더 자세한 이야기를 확인하실 수 있습니다. 
+          + [[DEVIEW 2018] Search Reliability Engineering (부제: 지진에도 흔들리지 않는 네이버 검색시스템)](https://deview.kr/2018/schedule/253)
+
+    - company: TmaxSoft Inc.
+      link: 'https://www.tmaxsoft.com'
+      date: 2016.02 - 2017.08
+      role: Software Engineer
+      location: 경기도 성남시
+      description: |
+        + [Tibero](https://www.tmaxsoft.com/products/tibero)라는 이름의 RDBMS(Relational Database Management System) 제품의 Query Compiler와 Query Executor 개발에 참여하였습니다. RDBMS가 제공하는 여러 가지 기능 중에 Stored Procedure와 Hash Join, Hash Sort 등을 주로 담당하였습니다. 
+        + DBMS를 모니터링하는 자체 모니터링 시스템 개발 프로젝트에도 참여하였습니다. 
+
+
+
+education:
+  show: true
+  order: 3
+  title: Education
+
+  items:
+    - institution: KAIST
+      link: 'https://www.kaist.ac.kr/en/'
+      date: 2014 - 2016
+      major: 전산학부
+      degree: 석사학위
+      description: |
+        - 추천시스템의 정확도를 높이거나 사물인터넷 환경에 적용하는 방법을 주로 연구하였습니다. ["사물인터넷 환경에서의 가변 요소를 고려한 개인화된 사용자 태스크 추천 방법"](http://library.kaist.ac.kr/search/detail/view.do?bibCtrlNo=649681&flag=dissertation)이라는 논문으로 석사 학위를 받았습니다. 
+
+    - institution: 경북대학교
+      link: 'https://en.knu.ac.kr/'
+      date: 2006 - 2013
+      major: IT대학 컴퓨터학부
+      degree: 학사학위
+      description: |
+        - 컴퓨터 프로그래밍 동아리 "하늘소"에 참여하였습니다. 
+
+publication:
+  show: true
+  order: 4
+  title: Publications
+  description: |
+
+  items:
+    - title: An Empirical Study of the Use of Multi-Dimensional Contexts for Collaborative-Filtering-Based Service Recommendations in IoT Environments. (Poster Paper)
+      authors: Joo-Sik Son, Han-Gyu Ko, and In-Young Ko
+      conference: In Proceedings of the 15th International Conference on Web Engineering (ICWE 2015)
+      link: 'https://link.springer.com/epdf/10.1007/978-3-319-19890-3_65?sharing_token=4nshfJXoNwEHrGlC4DTXyfe4RwlQNchNByi7wbcMAY7aRRp1yxjMWdybdsNIHcdGEI4u-1E18T0DqnX7lBFXre4KopjVLZLuc996r_B3ztmXUBY4wQBfzTUfBn7u5yMidj_hvUbwNeHAsenBEEBA7rh22YE12g8-Lrfgj34Jpzc='
+    - title: Multi-Aspect Collaborative Filtering based on Linked Data for Personalized Recommendation (Poster Paper)
+      authors: Han-Gyu Ko, Joo-Sik Son, and In-Young Ko
+      conference: In Proceedings of the 24rd International World Wide Web Conference (WWW 2015)
+      link: 'https://dl.acm.org/doi/10.1145/2740908.2742780'
+    - title: 다차원 상황인지 기반의 서비스 추천을 위한 협업 필터링 방법 분석
+      authors: Joo-Sik Son, Han-Gyu Ko, and In-Young Ko
+      conference: In Proceedings of 2015 Korea Conference on Software Engineering (KCSE 2015)
+      link: 'http://hdl.handle.net/10203/211203'
+
+skill:
+  show: true
+  order: 5
+  title: Skills
+
+  groups:
+    - name: Expert
+      item:
+        - Site Reliability Engineering
+        - Time-series Database
+    - name: Advanced
+      item:
+        - Information Retrieval
+        - Recommender System
+        - Relational Database
+    - name: Tools
+      item:
+        - Prometheus
+        - Kafka
+        - Redis
+        - Elasticsearch
+        - Cassandra
+    - name: Languages
+      item:
+        - Python
+        - Java
+        - Kotlin
+        - C
+        - C++
+        - Javascript
+
+close: <strong>Sorry, my resume has been hidden.</strong>

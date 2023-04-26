@@ -1,0 +1,270 @@
+basic:
+  name: Joo Sik, Son                 # name
+  title: Software Engineer           # job title
+  avatar:
+    show: false                      # show or hide avatar
+    path: /assets/images/profile.png # avatar file path
+
+contact:
+  # meta
+  email: sonjoosik_at_gmail.com    # email address
+  website: brunch.co.kr/@sonjoosik   # site URL without schema, like example.com, will automatically prepand "https://"
+  github: sonjoosik        # username          | https://github.com/username
+  linkedin: sonjoosik      # username          | https://linkedin.com/in/username
+
+
+profile:
+  show: true
+  order: 1
+  title: Profile
+  description: |
+    Since 2017, I have been working at NAVER Search, where I am responsible for the SRE (Site Reliability Engineering) platform and the construction and operation of large-scale time-series databases. I have experience leading a small development team that started with just two people and grew to nine members over the course of two years. After a nine-month parental leave, I returned to work as an individual contributor rather than a team leader, continuing to work diligently. Before joining NAVER, I developed databases at TmaxSoft and researched recommendation systems in graduate school.
+
+    My interests lie more in problem-solving than in specific technologies or domains. I believe that software and data technologies can help make it a bit easier to solve many difficult problems that arise in daily life.
+
+experience:
+  show: true
+  order: 2
+  title: Experiences
+  description: |
+
+  items:
+    - company: NAVER Corp.
+      link: 'https://www.navercorp.com/en'
+      date: 2017.08 - Present
+      role: Software Engineer
+      location: Seongnam-si, Gyeonggi-do
+      description: |
+        + Since 2022, I have been building and operating a large-scale, global TSDB (Time-series Database) platform. Based on the open-source TSDB [VictoriaMetrics](https://victoriametrics.com/), we collect, store, and process tens of millions to hundreds of millions of real-time time-series. More details can be found in the presentation below:
+          - [[DEVIEW 2023] VictoriaMetrics: Multiverse of Time-Series Data Chaos](https://deview.kr/2023/sessions/558)
+        + From 2020 to 2022, I worked as the leader of the NAVER Search SRE platform development team. The team grew from two to nine members, and we carried out projects to reorganize numerous legacy systems and data. I shared more about this experience in the presentation and interview below:
+          - [[2021 NAVER Search Colloquium] Search Engine and SRE Platform for Global Web Search System](https://tv.naver.com/v/20312678)
+          - [[Digital Daily] [NAVER Avengers] The 'Iron Wall Defense' That Reduced Search Engine Failure Rate to 0%](https://n.news.naver.com/article/138/0002102957)
+        + For about three years since 2017, I developed the SRE platform responsible for the reliability of NAVER Search. I also created a dashboard that visualizes complex, large-scale distributed systems and built a new alert system with rules not previously applied. During this period, the failure rate of NAVER Search decreased by half each year, reaching the 0% range. More details can be found in the link below:
+          + [[DEVIEW 2018] Search Reliability Engineering (Subtitle: NAVER Search System Unshaken by Earthquakes)](https://deview.kr/2018/schedule/253)
+
+    - company: TmaxSoft Inc.
+      link: 'https://www.tmaxsoft.com'
+      date: 2016.02 - 2017.08
+      role: Software Engineer
+      location: Seongnam-si, Gyeonggi-do
+      description: |
+        + I participated in the development of the Query Compiler and Query Executor of an RDBMS (Relational Database Management System) product called [Tibero](https://www.tmaxsoft.com/products/tibero). I mainly focused on Stored Procedure, Hash Join, and Hash Sort functions provided by the
+
+
+publication:
+  show: true
+  order: 4
+  title: Publications
+  description: |
+
+  items:
+    - title: An Empirical Study of the Use of Multi-Dimensional Contexts for Collaborative-Filtering-Based Service Recommendations in IoT Environments. (Poster Paper)
+      authors: Joo-Sik Son, Han-Gyu Ko, and In-Young Ko
+      conference: In Proceedings of the 15th International Conference on Web Engineering (ICWE 2015)
+      link: 'https://link.springer.com/epdf/10.1007/978-3-319-19890-3_65?sharing_token=4nshfJXoNwEHrGlC4DTXyfe4RwlQNchNByi7wbcMAY7aRRp1yxjMWdybdsNIHcdGEI4u-1E18T0DqnX7lBFXre4KopjVLZLuc996r_B3ztmXUBY4wQBfzTUfBn7u5yMidj_hvUbwNeHAsenBEEBA7rh22YE12g8-Lrfgj34Jpzc='
+    - title: Multi-Aspect Collaborative Filtering based on Linked Data for Personalized Recommendation (Poster Paper)
+      authors: Han-Gyu Ko, Joo-Sik Son, and In-Young Ko
+      conference: In Proceedings of the 24rd International World Wide Web Conference (WWW 2015)
+      link: 'https://dl.acm.org/doi/10.1145/2740908.2742780'
+    - title: Analysis on Collaborative Filtering Methods for Multi- dimensional Context-aware Service Recommendation
+      authors: Joo-Sik Son, Han-Gyu Ko, and In-Young Ko
+      conference: In Proceedings of 2015 Korea Conference on Software Engineering (KCSE 2015)
+      link: 'http://hdl.handle.net/10203/211203'
+
+skill:
+  show: true
+  order: 5
+  title: Skills
+
+  groups:
+    - name: Expert
+      item:
+        - Site Reliability Engineering
+        - Time-series Database
+    - name: Advanced
+      item:
+        - Information Retrieval
+        - Recommender System
+        - Relational Database
+    - name: Tools
+      item:
+        - Prometheus
+        - Kafka
+        - Redis
+        - Elasticsearch
+        - Cassandra
+    - name: Languages
+      item:
+        - Python
+        - Java
+        - Kotlin
+        - C
+        - C++
+        - Javascript
+
+certificate:
+  show: false
+  order: 6
+  title: Certificates
+  description: |
+    The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
+
+    Certificates can come from a variety of sources, such as online courses, workshops, or professional development programs. Examples of certificates that might be relevant to include on your resume could include certifications in a particular software or technology, industry-specific certifications, or certifications related to a specific skill or area of expertise.
+
+    When including your certificates in your resume, be sure to provide the name of the certification, the institution or organization that issued it, and the date it was issued. You may also want to include a brief description of the skills or knowledge that the certification demonstrates.
+
+    The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
+
+  items:
+    - name: Example Certificate One
+      issuer: by Example
+      date: 2020
+      link: '#'
+      description: |
+        It's my Example Certificate One by Example.
+    - name: Example Certificate Two
+      issuer: by Example
+      date: 2020
+      link:
+      description: |
+        It's my Example Certificate Two by Example.
+
+award:
+  show: false
+  order: 8
+  title: Awards
+  description: |
+    The award section in a resume is a dedicated section where you can showcase any awards you have received. This section is particularly relevant for individuals who have received awards for their work in their field, such as employees who have received performance awards or industry-specific awards. In this section, you should list the name of the award, the organization or institution that awarded it, the date it was awarded, and any other relevant details.
+
+    When including your awards on your resume, be sure to focus on the most significant or relevant awards that showcase your skills and expertise. If you have received a long list of awards, you may want to consider including only the most recent or prestigious awards on your resume.
+
+    By highlighting your awards, you can demonstrate your achievements and accomplishments in your field, and can help differentiate yourself from other candidates. However, if you have not received any awards, it is not necessary to include this section in your resume.
+
+  items:
+    - name: Example Awared One
+      awarder: by Example
+      date: 2022
+      link: '#'
+      description: |
+        It's my Example Awared One by Example.
+    - name: Example Awared Two
+      awarder: by Example
+      date: 2022
+      link:
+      description: |
+        It's my Example Awared Two by Example.
+
+patent:
+  show: false
+  order: 9
+  title: Patents
+  description: |
+    The patent section in a resume is a dedicated section where you can showcase any patents that you have been granted or are in the process of obtaining. This section is particularly relevant for individuals who work in scientific or technical fields, as well as for individuals who have developed innovative products or technologies.
+
+    In this section, you should list the title of the patent, the name of the inventors, the patent number, and the date it was granted. If the patent is pending, you can indicate that it is "pending" or "in review." You may also want to provide a brief description of the technology or invention that the patent covers.
+
+    Including a patent section in your resume can help demonstrate your expertise and accomplishments in your field, and can help you stand out from other candidates. However, if you do not have any patents to list, it is not necessary to include this section in your resume.
+
+    Template for a pending patent:
+
+    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date]. Patent pending.
+
+    Template for an approved patent:
+
+    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
+
+    The following are some examples of patent formats.
+
+    + Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
+    + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
+
+organization:
+  show: false
+  order: 10
+  title: Organizations
+  description: |
+    The organization section in a resume, specifically for social contexts, is a section where you can showcase any relevant involvement or leadership positions in social, cultural, or community organizations. This section can highlight your commitment to social causes and your ability to work collaboratively with others towards a common goal.
+
+    In this section, you can list the name of the organization, your role and responsibilities, the duration of your involvement, and any significant achievements or accomplishments. You can also mention any skills or qualities you gained from your involvement, such as leadership, teamwork, communication, or problem-solving skills.
+
+    This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
+
+language:
+  show: false
+  order: 11
+  title: Languages
+  description: |
+    The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
+
+    It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
+
+  items:
+    - idiom: Chinese
+      level: Native
+    - idiom: English
+      level: Professional
+
+interest:
+  show: false
+  order: 12
+  title: Interests
+  description: |
+    The interests section in a resume typically refers to a section where you can mention your hobbies, interests, and activities outside of work or school. This section can give potential employers a better idea of your personality, your values, and your interests beyond your professional experience.
+
+    Including an interest section in your resume can be helpful if your interests are relevant to the job you are applying for, such as if you are applying for a job in a creative field and your hobbies include painting or writing. It can also be useful if you are applying for a job where teamwork or social skills are important, and you can mention interests that demonstrate those qualities.
+
+    However, it is important to be selective when including an interest section in your resume, and to choose interests that are appropriate and professional. Avoid including controversial or potentially offensive interests, and focus on interests that showcase your positive qualities and strengths.
+
+  items:
+    - item: Reading
+      link: '#'
+    - item: Cooking
+      link:
+
+evaluation:
+  show: false
+  order: 13
+  title: Self-evaluation
+  description: |
+    The self-evaluation section in a resume is a section where you can evaluate and assess your own skills, strengths, and weaknesses. It is typically a short paragraph or bullet points at the end of your resume, which provides a personal perspective on your abilities and how they align with the requirements of the job.
+
+    In this section, you can highlight your achievements, areas of expertise, and any unique qualities or experiences that set you apart from other candidates. You can also mention areas where you are looking to improve or gain further experience.
+
+    A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
+
+reference:
+  show: false
+  order: 14
+  title: References
+  description: |
+    A reference section in a resume is a list of individuals who can vouch for your skills, work ethic, and character. These individuals are typically former managers, colleagues, or mentors who have worked closely with you in the past and can provide insight into your abilities and work style.
+
+    It's important to note that including a reference section in a resume is not always necessary, and some employers may prefer to request references separately. If you do choose to include a reference section, it should typically be located at the end of your resume.
+
+    When listing references, be sure to include the individual's name, job title, company name, phone number, and email address. It's also a good idea to ask for the individual's permission before listing them as a reference, and to let them know what kind of job you are applying for so they can speak to your relevant skills and experience.
+
+    It's important to choose references who can provide a positive and comprehensive evaluation of your work. Avoid listing family members or friends as references, and instead focus on individuals who can speak to your professional abilities and accomplishments.
+
+  items:
+    - name: Foo One
+      link: '#'
+      title: Backend Developer
+      institution: Second Company
+      address: 1234 Example St, XXX, XY 11111
+      email: foo.one@example.com
+      phone: 111-222-333
+      description: |
+        Foo One was my colleague in Second Company.
+
+    - name: Bar Two
+      link:
+      title: Professor
+      institution: Example University
+      address: 4321 Example St, YYY, XY 22222
+      email: bar.two@example.com
+      phone: 444-555-666
+      description: |
+        Bar Two was my advisor at Example University.
+
+close: <strong>Sorry, my resume has been hidden.</strong>

@@ -7,10 +7,10 @@ basic:
 
 contact:
   # meta
-  email: sonjoosik_at_gmail.com    # email address
+  email: sonjoosik@gmail.com         # email address
   website: brunch.co.kr/@sonjoosik   # site URL without schema, like example.com, will automatically prepand "https://"
-  github: sonjoosik        # username          | https://github.com/username
-  linkedin: sonjoosik      # username          | https://linkedin.com/in/username
+  github: sonjoosik                  # username          | https://github.com/username
+  linkedin: sonjoosik                # username          | https://linkedin.com/in/username
 
 
 profile:
